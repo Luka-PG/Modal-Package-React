@@ -1,6 +1,6 @@
 {
   "name": "luka.pg-modal-package-react",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "A package to display a react modal",
   "main": "./build/index.js",
   "scripts": {
